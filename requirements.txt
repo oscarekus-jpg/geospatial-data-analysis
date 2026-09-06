@@ -1,0 +1,11 @@
+pandas
+geopandas
+shapely
+osmnx
+folium
+duckdb
+matplotlib
+pystac-client
+planetary-computer
+rioxarray
+pydeck
